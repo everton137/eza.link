@@ -1,0 +1,2 @@
+# eza.link
+Personal website
